@@ -1,0 +1,226 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"col-sm-6"
+			],
+			[
+				"em",
+				"embed-responsive"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package co",
+		"selected_items":
+		[
+			[
+				"package co",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/chiasihan/Downloads/01_html_css/03_02_container_style/page.html",
+		"/Users/chiasihan/Downloads/01_html_css/07_01_links/page.html",
+		"/Users/chiasihan/Downloads/01_html_css/06_03_image_parallax/page.html",
+		"/Users/chiasihan/Downloads/01_html_css/08_02_form_style/page.css",
+		"/Users/chiasihan/Downloads/01_html_css/08_01_form/page.html",
+		"/Users/chiasihan/Downloads/01_html_css/07_02_links_style/page.html",
+		"/Users/chiasihan/Downloads/01_html_css/07_02_links_style/page.css",
+		"/Users/chiasihan/Downloads/01_html_css/06_03_image_parallax/page.css",
+		"/Users/chiasihan/Downloads/01_html_css/05_01_tables/page.html",
+		"/Users/chiasihan/Downloads/01_html_css/04_01_lists/page.html",
+		"/Users/chiasihan/Downloads/01_html_css/03_02_container_style/page.css",
+		"/Users/chiasihan/Downloads/01_html_css/03_01_containers/page.html",
+		"/Users/chiasihan/Downloads/01_html_css/02_02_text_style/page.css",
+		"/Users/chiasihan/Downloads/01_html_css/02_02_text_style/page.html",
+		"/Users/chiasihan/Downloads/01_html_css/02_01_texts/page.html",
+		"/Users/chiasihan/Downloads/01_html_css/08_02_form_style/page.html",
+		"/Users/chiasihan/Downloads/01_html_css/sftp-config.json",
+		"/Users/chiasihan/Downloads/01_html_css/01_basic_setup/page.html",
+		"/Users/chiasihan/Downloads/01_html_css/08_02_form_style/workshop.html",
+		"/Users/chiasihan/Downloads/01_html_css/08_02_form_style/workshop page.css",
+		"/Users/chiasihan/Downloads/02_bootstrap.rar",
+		"/Users/chiasihan/Downloads/01_html_css/01_basic_setup/untitled.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 247.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
